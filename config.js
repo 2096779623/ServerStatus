@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'XMQA运行监测',
+  SiteName: 'XMQA\u8fd0\u884c\u76d1\u89c6',
 
   // 站点链接
   SiteUrl: './',
