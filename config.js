@@ -1,20 +1,20 @@
-// ÅäÖÃ
+// é…ç½®
 window.Config = {
 
-  // Õ¾µãÃû
+  // ç«™ç‚¹å
   SiteName: 'XMQA\u8fd0\u884c\u76d1\u89c6',
 
-  // Õ¾µãÁ´½Ó
+  // ç«™ç‚¹é“¾æŽ¥
   SiteUrl: './',
 
-  // UptimeRobot Api ÓòÃû
-  // Ö»ÐèÌîÐ´ÓòÃû²¿·Ö£¬Ä¬ÈÏÎª¹ÙÍøÓòÃû
-  // Òò¹ÙÍø API Ê±²»Ê±µÄ»á CROS ±¨´í£¬¿ÉÌî×Ô¶¨Òå·´´úÓòÃû
-  // Ïê¼û https://github.com/yb/uptime-status/ ËµÃ÷
+  // UptimeRobot Api åŸŸå
+  // åªéœ€å¡«å†™åŸŸåéƒ¨åˆ†ï¼Œé»˜è®¤ä¸ºå®˜ç½‘åŸŸå
+  // å› å®˜ç½‘ API æ—¶ä¸æ—¶çš„ä¼š CROS æŠ¥é”™ï¼Œå¯å¡«è‡ªå®šä¹‰åä»£åŸŸå
+  // è¯¦è§ https://github.com/yb/uptime-status/ è¯´æ˜Ž
   ApiDomain: 'api.uptimerobot.com',
 
   // UptimeRobot Api Keys
-  // Ö§³Ö Monitor-Specific ºÍ Read-Only Á½Ö» Api Key
+  // æ”¯æŒ Monitor-Specific å’Œ Read-Only ä¸¤åª Api Key
   ApiKeys: [
     'm788751474-240bfd55175ea668209e2629',
     'm788751229-6443b83473471c1e1e9ea0ac',
@@ -24,17 +24,18 @@ window.Config = {
     'm788776873-0df9afcef5a599cb3736baef',
     'm788900842-b604b030ae8a7d8c4e427ea6',
     'm788900847-6b4f94c44af002454c6d2dd5',
+    'm788987402-ae841c0e3c7b9aba0445000c',
   ],
 
-  // ÊÇ·ñÏÔÊ¾¼à²âÕ¾µãµÄÁ´½Ó
+  // æ˜¯å¦æ˜¾ç¤ºç›‘æµ‹ç«™ç‚¹çš„é“¾æŽ¥
   ShowLink: true,
 
-  // ÈÕÖ¾ÌìÊý
-  // ËäÈ»Ãâ·Ñ°æËµ½ö±£´æ60ÌìÈÕÖ¾£¬µ«²âÊÔºÃÏñAPI¿ÉÒÔ»ñÈ¡90ÌìµÄ
-  // ²»¹ýÊ±¼ä²»ÒªÉèÖÃÌ«³¤£¬ÈÝÒ×¿¨£¬½Ó¿ÚÇëÇóÒ²ÈÝÒ×Ê§°Ü
+  // æ—¥å¿—å¤©æ•°
+  // è™½ç„¶å…è´¹ç‰ˆè¯´ä»…ä¿å­˜60å¤©æ—¥å¿—ï¼Œä½†æµ‹è¯•å¥½åƒAPIå¯ä»¥èŽ·å–90å¤©çš„
+  // ä¸è¿‡æ—¶é—´ä¸è¦è®¾ç½®å¤ªé•¿ï¼Œå®¹æ˜“å¡ï¼ŒæŽ¥å£è¯·æ±‚ä¹Ÿå®¹æ˜“å¤±è´¥
   CountDays: 45,
 
-  // µ¼º½À¸²Ëµ¥
+  // å¯¼èˆªæ èœå•
   Navi: [
     {
       text: 'Blog',
