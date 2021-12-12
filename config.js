@@ -35,7 +35,7 @@ window.Config = {
   Navi: [
     {
       text: '博客',
-      url: 'https://blog.utermux.eu.org/'
+      url: 'https://blog.utermux.eu.org?utm_source=status.utermux.eu.org'
     }
   ]
 };
