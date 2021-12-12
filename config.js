@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'XMQA\u8fd0\u884c\u76d1\u89c6',
+  SiteName: '运行监测 | 2096779623',
 
   // 站点链接
   SiteUrl: './',
@@ -16,16 +16,11 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'm788751474-240bfd55175ea668209e2629',
-    'm788751229-6443b83473471c1e1e9ea0ac',
-    'm788751227-05c94800e204d0af59c10e8f',
-    'm788776745-a6a27560a6d194a302c186dc',
-    'm788776752-07c8da42d851697ef7cdf3bc',
-    'm788776873-0df9afcef5a599cb3736baef',
-    'm788900842-b604b030ae8a7d8c4e427ea6',
-    'm788900847-6b4f94c44af002454c6d2dd5',
-    'm788987402-ae841c0e3c7b9aba0445000c',
-    'm789235825-702076e3e152647ac6cff326',
+    'm789786831-8e83e7439a12d71d634f89f7',
+    'm790035296-a77af8b243b6ad5913754502',
+    'm790035300-98638bc8df03d24502b50082',
+    'm790035303-0928615dd1c1a0a24f37f146',
+    'm790035304-632ab6ae178d84274c63e813',
   ],
 
   // 是否显示监测站点的链接
@@ -39,8 +34,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Blog',
-      url: 'https://huahuo-cn.tk/'
+      text: '博客',
+      url: 'https://blog.utermux.eu.org/'
     }
   ]
 };
