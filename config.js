@@ -16,6 +16,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
+    'm791600335-c16f945f0fc099692ad32ef5',
     'm789786831-8e83e7439a12d71d634f89f7',
     'm790035296-a77af8b243b6ad5913754502',
     'm790035303-0928615dd1c1a0a24f37f146',
@@ -32,8 +33,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '博客',
-      url: 'https://blog.utermux.eu.org?utm_source=status.utermux.eu.org'
+      text: 'UTermux博客',
+      url: 'https://blog.utermux.dev?utm_source=status.utermux.dev'
     }
   ]
 };
